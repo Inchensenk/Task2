@@ -1,0 +1,41 @@
+body
+{
+    margin-left: 20%;
+    font-family: 'Roboto Serif', serif;
+}
+
+.gray
+{
+    color: #60666d;
+}
+
+.purple
+{
+    color: #7933b1;
+}
+
+.smallFont
+{
+    font-size:medium;
+}
+
+.darkGray
+{
+    color: #494f55;
+}
+
+.darkBlue
+{
+    color: #2b26b4;
+}
+
+/* line-height: межстрочный интервал (интерлиньяж)*/
+h1
+{
+    line-height: 0.1em;
+}
+
+p
+{
+    line-height: 1.5em;
+}
