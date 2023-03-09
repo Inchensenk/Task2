@@ -1,8 +1,9 @@
 body
 {
-    margin-left: 20%;
-    font-family: 'Roboto Serif', serif;
+    margin-left: 15em;
+    font-family: 'Open Sans', sans-serif;
 }
+
 
 .gray
 {
@@ -14,10 +15,6 @@ body
     color: #7933b1;
 }
 
-.smallFont
-{
-    font-size:medium;
-}
 
 .darkGray
 {
@@ -39,3 +36,9 @@ p
 {
     line-height: 1.5em;
 }
+
+div
+{
+    margin-bottom: 3em;
+}
+
